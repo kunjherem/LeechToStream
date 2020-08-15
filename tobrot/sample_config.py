@@ -35,7 +35,7 @@ class Config(object):
     # add offensive API
     TG_OFFENSIVE_API = os.environ.get("TG_OFFENSIVE_API", None)
     CUSTOM_FILE_NAME = os.environ.get("CUSTOM_FILE_NAME", "")
-    LEECH_COMMAND = os.environ.get("LEECH_COMMAND", "leech@leechXTbot")
+    LEECH_COMMAND = os.environ.get("LEECH_COMMAND", "leech2vid@leechXTbot")
     YTDL_COMMAND = os.environ.get("YTDL_COMMAND", "ytdl@leechXTbot")
     PYTDL_COMMAND = os.environ.get("PYTDL_COMMAND", "pytdl@leechXTbot")
     RCLONE_CONFIG = os.environ.get("RCLONE_CONFIG", "")
