@@ -13,9 +13,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://githhttps://github.com/prgofficial/TorrentLeech-GDriVe",
-  "success_url": "https://t.me/moviezonlysupport",
-  "website": "https://github.com/prgofficial/TorrentLeech-GDriVe",
+  "repository": "https://github.com/artemisfowl004/LeechToStream.git",
+  "success_url": "https://t.me/Filmyflx",
+  "website": "https://github.com/artemisfowl004/LeechToStream/tree/master",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
